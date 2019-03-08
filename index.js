@@ -73,7 +73,7 @@ function createRock(x) {
    */
 
   GAME.appendChild(rock);
-  
+}
   /**
    * This function moves the rock. (2 pixels at a time
    * seems like a good pace.)
