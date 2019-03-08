@@ -65,7 +65,7 @@ function createRock(x) {
   // Hmmm, why would we have used `var` here?
    var top2 = rock.style.top = 0;
 
-  rock.style.top = top;
+  
 
   /**
    * Now that we have a rock, we'll need to append
